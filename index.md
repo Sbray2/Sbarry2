@@ -12,7 +12,7 @@ The personas for The pie are students, people on the go, working civilians, anyo
 **Single User Story:** 
 As a student I want to plan and order ahead so that I can find a good deal and get food on time.
 
-If The Pie was a character or persona, the feeling words I'd want associated with that"person" by people that knew it would be usable, clean, simple, functional.
+If The Pie was a character or persona, the feeling words I'd want associated with that "person" by people that knew it would be usable, clean, simple, functional.
 
 ### Header 3
 
